@@ -241,7 +241,7 @@ forest.changeImage("mandir",templeimg)
 forest.scale=1.6
 forest.velocityX=0
 console.log("ninjax",ninja.x)
-camera.position.x=canW+4288
+camera.position.x=ninja.x
 camera.position.y=canH/2
 
 lastimagesprite.x=camera.position.x
